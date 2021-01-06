@@ -1,0 +1,142 @@
+Muhammad,Ahmad,10,101,Urdu,0,fail
+Muhammad,Ahmad,10,101,English,0,fail
+Muhammad,Ahmad,10,101,Maths,0,fail
+Muhammad,Ahmad,10,101,Islamiat,0,fail
+Muhammad,Ahmad,10,101,Physics,0,fail
+Muhammad,Ahmad,10,101,Computer,0,fail
+Muhammad,Ahmad,10,101,Chemistry,0,fail
+Muhammad,Ahmad,10,101,Pakistan Studies,0,fail
+Ali,Rehman,10,102,Urdu,0,fail
+Ali,Rehman,10,102,English,0,fail
+Ali,Rehman,10,102,Maths,0,fail
+Ali,Rehman,10,102,Islamiat,0,fail
+Ali,Rehman,10,102,Physics,0,fail
+Ali,Rehman,10,102,Computer,0,fail
+Ali,Rehman,10,102,Chemistry,0,fail
+Ali,Rehman,10,102,Pakistan Studies,0,fail
+Shayan,Ali,10,103,Urdu,0,fail
+Shayan,Ali,10,103,English,0,fail
+Shayan,Ali,10,103,Maths,0,fail
+Shayan,Ali,10,103,Islamiat,0,fail
+Shayan,Ali,10,103,Physics,0,fail
+Shayan,Ali,10,103,Computer,0f,fail
+Shayan,Ali,10,103,Chemistry,0,fail
+Shayan,Ali,10,103,Pakistan Studies,0,fail
+Ayesha,Sarfaraz,10,104,Urdu,0,fail
+Ayesha,Sarfaraz,10,104,English,0,fail
+Ayesha,Sarfaraz,10,104,Maths,0,fail
+Ayesha,Sarfaraz,10,104,Islamiat,0,fail
+Ayesha,Sarfaraz,10,104,Physics,0,fail
+Ayesha,Sarfaraz,10,104,Computer,0,fail
+Ayesha,Sarfaraz,10,104,Chemistry,0,fail
+Ayesha,Sarfaraz,10,104,Pakistan Studies,0,fail
+Rameen,Hamid,10,106,Urdu,0,fail
+Rameen,Hamid,10,106,English,0,fail
+Rameen,Hamid,10,106,Maths,0,fail
+Rameen,Hamid,10,106,Islamiat,0,fail
+Rameen,Hamid,10,106,Physics,0,fail
+Rameen,Hamid,10,106,Computer,0,fail
+Rameen,Hamid,10,106,Chemistry,0,fail
+Rameen,Hamid,10,106,Pakistan Studies,0,fail
+Muhammad,Ali,10,108,Urdu,0,fail
+Muhammad,Ali,10,108,English,0,fail
+Muhammad,Ali,10,108,Maths,0,fail
+Muhammad,Ali,10,108,Islamiat,0,fail
+Muhammad,Ali,10,108,Physics,0,fail
+Muhammad,Ali,10,108,Computer,0,fail
+Muhammad,Ali,10,108,Chemistry,0,fail
+Muhammad,Ali,10,108,Pakistan Studies,0,fail
+Muhammad,Yasir,10,109,Urdu,77,pass
+Muhammad,Yasir,10,109,English,23,fail
+Muhammad,Yasir,10,109,Maths,99,pass
+Muhammad,Yasir,10,109,Islamiat,89,pass
+Muhammad,Yasir,10,109,Physics,34,pass
+Muhammad,Yasir,10,109,Computer,91,pass
+Muhammad,Yasir,10,109,Chemistry,58,pass
+Muhammad,Yasir,10,109,Pakistan Studies,67,pass
+Hammad,Ali,10,1010,Urdu,77,pass
+Hammad,Ali,10,1010,English,99,pass
+Hammad,Ali,10,1010,Maths,89,pass
+Hammad,Ali,10,1010,Islamiat,97,pass
+Hammad,Ali,10,1010,Physics,92,pass
+Hammad,Ali,10,1010,Computer,81,pass
+Hammad,Ali,10,1010,Chemistry,77,pass
+Hammad,Ali,10,1010,Pakistan Studies,100,pass
+Junaid,Iqbal,7,711,Urdu,98,pass
+Junaid,Iqbal,7,711,English,95,pass
+Junaid,Iqbal,7,711,Maths,85,pass
+Junaid,Iqbal,7,711,Science,77,pass
+Junaid,Iqbal,7,711,Islamiat,100,pass
+Junaid,Iqbal,7,711,History,83,pass
+Junaid,Iqbal,7,711,Computer,88,pass
+Muhammad,Ahmad,10,101,Urdu,0,fail
+Muhammad,Ahmad,10,101,English,0,fail
+Muhammad,Ahmad,10,101,Maths,0,fail
+Muhammad,Ahmad,10,101,Islamiat,0,fail
+Muhammad,Ahmad,10,101,Physics,0,fail
+Muhammad,Ahmad,10,101,Computer,0,fail
+Muhammad,Ahmad,10,101,Chemistry,0,fail
+Muhammad,Ahmad,10,101,Pakistan Studies,0,fail
+Ali,Rehman,10,102,Urdu,0,fail
+Ali,Rehman,10,102,English,0,fail
+Ali,Rehman,10,102,Maths,0,fail
+Ali,Rehman,10,102,Islamiat,0,fail
+Ali,Rehman,10,102,Physics,0,fail
+Ali,Rehman,10,102,Computer,0,fail
+Ali,Rehman,10,102,Chemistry,0,fail
+Ali,Rehman,10,102,Pakistan Studies,0,fail
+Shayan,Ali,10,103,Urdu,0,fail
+Shayan,Ali,10,103,English,0,fail
+Shayan,Ali,10,103,Maths,0,fail
+Shayan,Ali,10,103,Islamiat,0,fail
+Shayan,Ali,10,103,Physics,0,fail
+Shayan,Ali,10,103,Computer,0f,fail
+Shayan,Ali,10,103,Chemistry,0,fail
+Shayan,Ali,10,103,Pakistan Studies,0,fail
+Ayesha,Sarfaraz,10,104,Urdu,0,fail
+Ayesha,Sarfaraz,10,104,English,0,fail
+Ayesha,Sarfaraz,10,104,Maths,0,fail
+Ayesha,Sarfaraz,10,104,Islamiat,0,fail
+Ayesha,Sarfaraz,10,104,Physics,0,fail
+Ayesha,Sarfaraz,10,104,Computer,0,fail
+Ayesha,Sarfaraz,10,104,Chemistry,0,fail
+Ayesha,Sarfaraz,10,104,Pakistan Studies,0,fail
+Rameen,Hamid,10,106,Urdu,0,fail
+Rameen,Hamid,10,106,English,0,fail
+Rameen,Hamid,10,106,Maths,0,fail
+Rameen,Hamid,10,106,Islamiat,0,fail
+Rameen,Hamid,10,106,Physics,0,fail
+Rameen,Hamid,10,106,Computer,0,fail
+Rameen,Hamid,10,106,Chemistry,0,fail
+Rameen,Hamid,10,106,Pakistan Studies,0,fail
+Muhammad,Ali,10,108,Urdu,0,fail
+Muhammad,Ali,10,108,English,0,fail
+Muhammad,Ali,10,108,Maths,0,fail
+Muhammad,Ali,10,108,Islamiat,0,fail
+Muhammad,Ali,10,108,Physics,0,fail
+Muhammad,Ali,10,108,Computer,0,fail
+Muhammad,Ali,10,108,Chemistry,0,fail
+Muhammad,Ali,10,108,Pakistan Studies,0,fail
+Muhammad,Yasir,10,109,Urdu,77,pass
+Muhammad,Yasir,10,109,English,23,fail
+Muhammad,Yasir,10,109,Maths,99,pass
+Muhammad,Yasir,10,109,Islamiat,89,pass
+Muhammad,Yasir,10,109,Physics,34,pass
+Muhammad,Yasir,10,109,Computer,91,pass
+Muhammad,Yasir,10,109,Chemistry,58,pass
+Muhammad,Yasir,10,109,Pakistan Studies,67,pass
+Hammad,Ali,10,1010,Urdu,77,pass
+Hammad,Ali,10,1010,English,99,pass
+Hammad,Ali,10,1010,Maths,89,pass
+Hammad,Ali,10,1010,Islamiat,97,pass
+Hammad,Ali,10,1010,Physics,92,pass
+Hammad,Ali,10,1010,Computer,81,pass
+Hammad,Ali,10,1010,Chemistry,77,pass
+Hammad,Ali,10,1010,Pakistan Studies,100,pass
+Junaid,Iqbal,7,711,Urdu,98,pass
+Junaid,Iqbal,7,711,English,95,pass
+Junaid,Iqbal,7,711,Maths,85,pass
+Junaid,Iqbal,7,711,Science,77,pass
+Junaid,Iqbal,7,711,Islamiat,100,pass
+Junaid,Iqbal,7,711,History,83,pass
+Junaid,Iqbal,7,711,Computer,88,pass

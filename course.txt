@@ -1,0 +1,58 @@
+Urdu,11,1,Urdu
+English,12,1,English
+Maths,13,1,Maths
+Urdu,21,2,Urdu
+English,22,2,English
+Maths,23,2,Maths
+Science,24,2,Biology
+Urdu,31,3,Urdu
+English,32,3,English
+Maths,33,3,Maths
+Science,34,3,Biology
+Urdu,41,4,Urdu
+English,42,4,English
+Maths,43,4,Maths
+Science,44,4,Biology
+Islamiat,45,4,Religious Study
+Urdu,51,5,Urdu
+English,52,5,English
+Maths,53,5,Maths
+Science,54,5,Biology
+Islamiat,55,5,Religious Study
+History,56,5,Geography
+Urdu,61,6,Urdu
+English,62,6,English
+Maths,63,6,Maths
+Science,64,6,Biology
+Islamiat,65,6,Religious Study
+History,66,6,Geography
+Urdu,71,7,Urdu
+English,72,7,English
+Maths,73,7,Maths
+Science,74,7,Biology
+Islamiat,75,7,Religious Study
+History,76,7,Geography
+Computer,77,7,Inofrmation Technology
+Urdu,81,8,Urdu
+English,82,8,English
+Maths,83,8,Maths
+Science,84,8,Biology
+Islamiat,85,8,Religious Study
+History,86,8,Geography
+Computer,87,8,Information Technology
+Urdu,91,9,Urdu
+English,92,9,English
+Maths,93,9,Maths
+Islamiat,94,9,Religious Study
+Physics,95,9,Physics
+Computer,96,9,Information Technology
+Chemistry,97,9,Chemistry
+Pakistan Studies,98,9,PS
+Urdu,101,10,Urdu
+English,102,10,English
+Maths,103,10,Maths
+Islamiat,104,10,Religious Study
+Physics,105,10,Physics
+Computer,106,10,Information Technology
+Chemistry,107,10,Chemistry
+Pakistan Studies,108,10,PS

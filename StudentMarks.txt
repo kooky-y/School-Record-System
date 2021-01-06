@@ -1,0 +1,71 @@
+Muhammad,Ahmad,10,101,Urdu,0
+Muhammad,Ahmad,10,101,English,0
+Muhammad,Ahmad,10,101,Maths,0
+Muhammad,Ahmad,10,101,Islamiat,0
+Muhammad,Ahmad,10,101,Physics,0
+Muhammad,Ahmad,10,101,Computer,0
+Muhammad,Ahmad,10,101,Chemistry,0
+Muhammad,Ahmad,10,101,Pakistan Studies,0
+Ali,Rehman,10,102,Urdu,0
+Ali,Rehman,10,102,English,0
+Ali,Rehman,10,102,Maths,0
+Ali,Rehman,10,102,Islamiat,0
+Ali,Rehman,10,102,Physics,0
+Ali,Rehman,10,102,Computer,0
+Ali,Rehman,10,102,Chemistry,0
+Ali,Rehman,10,102,Pakistan Studies,0
+Shayan,Ali,10,103,Urdu,0
+Shayan,Ali,10,103,English,0
+Shayan,Ali,10,103,Maths,0
+Shayan,Ali,10,103,Islamiat,0
+Shayan,Ali,10,103,Physics,0
+Shayan,Ali,10,103,Computer,0f
+Shayan,Ali,10,103,Chemistry,0
+Shayan,Ali,10,103,Pakistan Studies,0
+Ayesha,Sarfaraz,10,104,Urdu,0
+Ayesha,Sarfaraz,10,104,English,0
+Ayesha,Sarfaraz,10,104,Maths,0
+Ayesha,Sarfaraz,10,104,Islamiat,0
+Ayesha,Sarfaraz,10,104,Physics,0
+Ayesha,Sarfaraz,10,104,Computer,0
+Ayesha,Sarfaraz,10,104,Chemistry,0
+Ayesha,Sarfaraz,10,104,Pakistan Studies,0
+Rameen,Hamid,10,106,Urdu,0
+Rameen,Hamid,10,106,English,0
+Rameen,Hamid,10,106,Maths,0
+Rameen,Hamid,10,106,Islamiat,0
+Rameen,Hamid,10,106,Physics,0
+Rameen,Hamid,10,106,Computer,0
+Rameen,Hamid,10,106,Chemistry,0
+Rameen,Hamid,10,106,Pakistan Studies,0
+Muhammad,Ali,10,108,Urdu,0
+Muhammad,Ali,10,108,English,0
+Muhammad,Ali,10,108,Maths,0
+Muhammad,Ali,10,108,Islamiat,0
+Muhammad,Ali,10,108,Physics,0
+Muhammad,Ali,10,108,Computer,0
+Muhammad,Ali,10,108,Chemistry,0
+Muhammad,Ali,10,108,Pakistan Studies,0
+Muhammad,Yasir,10,109,Urdu,77
+Muhammad,Yasir,10,109,English,23
+Muhammad,Yasir,10,109,Maths,99
+Muhammad,Yasir,10,109,Islamiat,89
+Muhammad,Yasir,10,109,Physics,34
+Muhammad,Yasir,10,109,Computer,91
+Muhammad,Yasir,10,109,Chemistry,58
+Muhammad,Yasir,10,109,Pakistan Studies,67
+Hammad,Ali,10,1010,Urdu,77
+Hammad,Ali,10,1010,English,99
+Hammad,Ali,10,1010,Maths,89
+Hammad,Ali,10,1010,Islamiat,97
+Hammad,Ali,10,1010,Physics,92
+Hammad,Ali,10,1010,Computer,81
+Hammad,Ali,10,1010,Chemistry,77
+Hammad,Ali,10,1010,Pakistan Studies,100
+Junaid,Iqbal,7,711,Urdu,98
+Junaid,Iqbal,7,711,English,95
+Junaid,Iqbal,7,711,Maths,85
+Junaid,Iqbal,7,711,Science,77
+Junaid,Iqbal,7,711,Islamiat,100
+Junaid,Iqbal,7,711,History,83
+Junaid,Iqbal,7,711,Computer,88

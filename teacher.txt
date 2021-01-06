@@ -1,0 +1,10 @@
+Mister,Miseez,mizees@mister.com,12/0/2020,fulll,ulll,33310000,M,Phd,30000000,21/12/1999,hhhhh,20002,missez
+Rameen,Hamid,rameen@gmail.com,27/5/2000,rameen12,rameen12,1234512345678,f,cs,03318549100,27/5/1990,309,12000,rameen009
+Fahad,Hamid,fahad@gmail.com,12/3/2005,fahad787,fahad787,1234623456789,m,cs,03202060400,20/1/1994,210,15000,fahad45
+Hiba,Hashir,hhashir@gmail.com,20/7/2006,12hiba77,12hiba77,12345876543286,f,bba,03212864400,19/1/1995,310,12000,hibaa1
+Hashir,Shehzad,hhshehzad@gmail.com,15/2/2004,10hashir,10hashir,1234787654329,m,bba,03002060500,10/3/1995,120,10000,hashir2
+Khurram,Shehzad,khuram_1@gmail.com,20/5/2010,2khurrum,2khurrum,1256723456785,m,bio,03212116500,9/5/1997,180,21000,kh1234
+Shehzad,Masood,sh_masood@gmail.com,10/6/2010,shehzad8,shehzad8,3456721345679,m,physics,03002112344,10/6/1990,180,21000,sh1298
+Rania,Azhar,rania@gmail.com,20/5/2000,rania123,rania123,12345879654322,F,bio,03218769544,9/6/1980,190,21000,rania112
+Rameen,Azhar,rameenazhar@gmail.com,27/8/2000,rameen67,rameen67,1238945678936,f,physics,03008790566,26/7/1990,210,10000,rameen980
+Shayan,Uzair,uzairshayan@gmail.com,12/7/2000,okay4567,okay4567,1267867895439,M,chemistry,03218976433,5/4/1990,190,10000,shayan340
